@@ -1,5 +1,5 @@
 "use client";
-import { Card, CardDescription, CardTitle } from "@/components/ui/card";
+import { Card, CardTitle } from "@/components/ui/card";
 import React, { useEffect } from "react";
 
 const AllUsers = () => {
