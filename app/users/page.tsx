@@ -1,4 +1,4 @@
-import { Accordion } from '@radix-ui/react-accordion'
+"use client"
 import React from 'react'
 import AccordionUI from '../components/AccordionUI'
 

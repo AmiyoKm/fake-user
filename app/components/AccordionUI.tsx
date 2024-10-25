@@ -1,6 +1,6 @@
 "use client"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion'
-import React, { useEffect } from 'react'
+import React from 'react'
 import AllUsers from './AllUsers'
 import SpecificInfo from './SpecificInfo'
 import AddUser from './AddUser'
